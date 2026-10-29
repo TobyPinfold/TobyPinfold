@@ -1,6 +1,6 @@
 # 👋 Hey!
 
-I'm a **Software Engineer** based in London, UK specializing in **distributed systems, microservices architecture, and platform / MLOps infrastructure**.
+I'm a **Software Engineer** based in London, UK specialising in **distributed systems, microservices architecture, and platform / MLOps infrastructure**.
 
 Experienced in designing, developing, and operating resilient backend services and cloud-native infrastructure using **Go, Scala, and Kubernetes** within high-traffic enterprise environments (supporting multi-million concurrent user platforms).
 
