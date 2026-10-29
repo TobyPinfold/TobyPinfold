@@ -1,25 +1,24 @@
-# 👋 Hey!
+# Hi, I'm Toby 👋
 
-I'm a **Software Engineer** based in London, UK specialising in **distributed systems, microservices architecture, and platform / MLOps infrastructure**.
+I'm a backend engineer specialising in Go, Scala, APIs and distributed systems.
 
-Experienced in designing, developing, and operating resilient backend services and cloud-native infrastructure using **Go, Scala, and Kubernetes** within high-traffic enterprise environments (supporting multi-million concurrent user platforms).
+I've worked on the personalisation APIs powering Sky Q, Peacock and NOW, helping deliver personalised content experiences across streaming platforms.
 
----
+More recently, I've been supporting MLOps platform tooling through the [KFP Operator](https://github.com/sky-uk/kfp-operator), working at the intersection of platform engineering and machine learning infrastructure.
 
-### 🛠 Technical Expertise
-
-- **Languages:** Go, Scala
-- **Cloud & Orchestration:** Kubernetes, Docker, Custom Kubernetes Operators, Helm, Kustomize
-- **GitOps & Delivery:** Argo-CD, CI/CD Pipelines, GitHub Actions, Automated Testing
-- **Architecture & Systems:** Distributed Systems, Microservices, API Design, Scalable Platform Infrastructure, MLOps Platforms
+Most of my professional work lives in private repositories, so my public GitHub only represents a small part of my engineering experience.
 
 ---
 
-### 💼 Core Focus
+### 🛠 Technologies & Interests
 
-- **Platform & Distributed Systems:** Building scalable, fault-tolerant microservices and low-latency backend architectures.
-- **Kubernetes Operators & Cloud Native:** Automating platform workflows and MLOps infrastructure using custom controllers and operators.
-- **GitOps & Reliability at Scale:** Streamlining deployment workflows using Argo-CD and architecting high-availability systems for massive concurrent traffic.
+`Go` · `Scala` · `Backend APIs` · `Distributed Systems` · `Kubernetes` · `MLOps`
+
+---
+
+### 🚀 Open Source Work
+
+- **[sky-uk/kfp-operator](https://github.com/sky-uk/kfp-operator)** — A production Kubernetes operator written in Go for managing and orchestrating Kubeflow Pipelines declaratively.
 
 ---
 
