@@ -4,7 +4,7 @@ I'm a backend engineer specialising in Go, Scala, APIs and distributed systems.
 
 I've worked on the personalisation APIs powering Sky Q, Peacock and NOW, helping deliver personalised content experiences across streaming platforms.
 
-More recently, I've been supporting MLOps platform tooling through the [KFP Operator](https://github.com/sky-uk/kfp-operator), working at the intersection of platform engineering and machine learning infrastructure.
+More recently, I've been supporting MLOps platform tooling through [KFP Operator](https://github.com/sky-uk/kfp-operator), working at the intersection of platform engineering and machine learning infrastructure.
 
 Most of my professional work lives in private repositories, so my public GitHub only represents a small part of my engineering experience.
 
